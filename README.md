@@ -32,11 +32,6 @@ Key Features:
 (https://github.com/JMcKenna01/SVGLogoCreator/assets/147211404/b96c49cb-bfcc-441b-9c04-9a2635273f2a)
 
 
-## Link to the Deployed Application
-
-
-
-
 ## Credits
 N/A 
 
