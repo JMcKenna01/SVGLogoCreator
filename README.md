@@ -25,10 +25,11 @@ Key Features:
 - 'README.md': A README file providing instructions on how to use the application, its features, and any other relevant information.
 
 
-## Screenshot
+## Walkthrough video / Screenshot
+[SVGLogo.webm](https://github.com/JMcKenna01/SVGLogoCreator/assets/147211404/e3cd59ca-c7e5-4b1a-933e-809703702503)
 
 
-[CLICK-HERE]()![SVGLogo](https://github.com/JMcKenna01/SVGLogoCreator/assets/147211404/b96c49cb-bfcc-441b-9c04-9a2635273f2a)
+(https://github.com/JMcKenna01/SVGLogoCreator/assets/147211404/b96c49cb-bfcc-441b-9c04-9a2635273f2a)
 
 
 ## Link to the Deployed Application
